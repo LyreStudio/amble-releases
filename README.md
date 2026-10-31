@@ -333,6 +333,11 @@ For security issues, use [private reporting](SECURITY.md).
 
 ---
 
+### Future open-source plans
+
+The owner intends to release eligible Lyre-owned code under Apache 2.0 when the
+repository reaches 20,000 GitHub stars, so that users can modify and work with it freely.
+
 This is Lyre Studio's official repository for **downloads, release notes, and
 feedback**. Application source is maintained privately. **Lyre Studio is proprietary**;
 see the [license notice](LICENSE), [EULA](https://lyrestudio.net/legal/eula.txt), and
