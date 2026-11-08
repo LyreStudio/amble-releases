@@ -1,33 +1,33 @@
 <p align="center">
-  <a href="https://lyrestudio.net"><img src="assets/lyre-mark.png" alt="Lyre Studio" width="64" height="64"></a>
+  <a href="https://www.amblecode.com"><img src="assets/lyre-mark.png" alt="Amble" width="64" height="64"></a>
 </p>
 
-<h1 align="center">Lyre Studio</h1>
+<h1 align="center">Amble</h1>
 
 <p align="center"><strong>Build locally. Take it with you.</strong></p>
 
 <p align="center">Coding agents, your models, and your running app, in one workspace on your computer.<br>Drive it from your phone, tablet, or another computer.</p>
 
 <p align="center">
-  <a href="https://github.com/LyreStudio/lyre-releases/releases/latest"><strong>Download Lyre Studio →</strong></a> ·
-  <a href="https://lyrestudio.net/docs/quickstart.html">Get started</a> ·
+  <a href="https://github.com/LyreStudio/amble-releases/releases/latest"><strong>Download Amble →</strong></a> ·
+  <a href="https://www.amblecode.com/docs/quickstart.html">Get started</a> ·
   <a href="TEAMWORK.md">Team guide</a> ·
-  <a href="https://lyrestudio.net">Website</a> ·
+  <a href="https://www.amblecode.com">Website</a> ·
   <a href="https://discord.gg/eGjaBGJgp">Discord</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LyreStudio/lyre-releases/stargazers">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Flyre-releases&query=%24.stargazers_count&label=stars&style=flat&logo=github&color=007ec6" alt="GitHub stars">
+  <a href="https://github.com/LyreStudio/amble-releases/stargazers">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Famble-releases&query=%24.stargazers_count&label=stars&style=flat&logo=github&color=007ec6" alt="GitHub stars">
   </a>
-  <a href="https://github.com/LyreStudio/lyre-releases/releases/latest">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Flyre-releases%2Freleases%2Flatest&query=%24.tag_name&label=release&style=flat&logo=github&color=orange" alt="Latest Lyre Studio release">
+  <a href="https://github.com/LyreStudio/amble-releases/releases/latest">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Famble-releases%2Freleases%2Flatest&query=%24.tag_name&label=release&style=flat&logo=github&color=orange" alt="Latest Amble release">
   </a>
   <a href="https://x.com/BakhitJonathan">
     <img src="https://img.shields.io/badge/%40BakhitJonathan-555?style=flat&logo=x" alt="Jonathan Bakhit on X">
   </a>
   <a href="https://discord.gg/eGjaBGJgp">
-    <img src="https://img.shields.io/badge/Discord-555?style=flat&logo=discord" alt="Lyre Discord community">
+    <img src="https://img.shields.io/badge/Discord-555?style=flat&logo=discord" alt="Amble Discord community">
   </a>
   <a href="https://www.linkedin.com/in/jonathanbakhit/">
     <img src="https://img.shields.io/badge/LinkedIn-555?style=flat" alt="Jonathan Bakhit on LinkedIn">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/lyre-hero.png" alt="Lyre on a desktop and iPhone: an agent changes the Harbor Kitchen sample website while the desktop shows the running app" width="100%">
+  <img src="assets/lyre-hero.png" alt="Amble on a desktop and iPhone: an agent changes the Harbor Kitchen sample website while the desktop shows the running app" width="100%">
 </p>
 
 ## Main features
@@ -48,7 +48,7 @@
 - [Show your agent what to change](FEATURES.md#visual-feedback-for-your-agent) with a screenshot.
 - [Run project commands](FEATURES.md#terminals-and-cli-profiles) in built-in terminals.
 
-**Also in Lyre:**
+**Also in Amble:**
 
 - [Git worktrees](FEATURES.md#separate-git-worktrees) and [change review and commits](FEATURES.md#review-and-commit-changes).
 - [App sharing](FEATURES.md#share-an-app-with-testers) and [built-in remote desktop](FEATURES.md#built-in-remote-desktop).
@@ -60,32 +60,32 @@
 
 ## Try a complete workflow
 
-- [Use Claude Code from your phone](https://www.lyrestudio.net/docs/claude-code-from-phone.html).
-- [Use Codex from your phone](https://www.lyrestudio.net/docs/codex-from-phone.html).
-- [Share a local app with a tester](https://www.lyrestudio.net/docs/share-local-app-with-tester.html).
-- [Evaluate Lyre with the facts and review guide](https://www.lyrestudio.net/docs/lyre-facts-and-review-guide.html).
+- [Use Claude Code from your phone](https://www.amblecode.com/docs/claude-code-from-phone.html).
+- [Use Codex from your phone](https://www.amblecode.com/docs/codex-from-phone.html).
+- [Share a local app with a tester](https://www.amblecode.com/docs/share-local-app-with-tester.html).
+- [Evaluate Amble with the facts and review guide](https://www.amblecode.com/docs/lyre-facts-and-review-guide.html).
 
-Check [current host and client availability](https://www.lyrestudio.net/docs/release-status.html)
+Check [current host and client availability](https://www.amblecode.com/docs/release-status.html)
 before trying a workflow. The review guide explains the running-host requirement,
 preview scope, access limits and separate provider costs.
 
-## Get Lyre Studio
+## Get Amble
 
-[**Download the latest release →**](https://github.com/LyreStudio/lyre-releases/releases/latest)
+[**Download the latest release →**](https://github.com/LyreStudio/amble-releases/releases/latest)
 
 | Your computer                    | Recommended download                              | Availability         |
 | -------------------------------- | ------------------------------------------------- | -------------------- |
-| **macOS · Apple silicon**        | **.dmg**: open it, then drag Lyre to Applications | Signed and notarized |
+| **macOS · Apple silicon**        | **.dmg**: open it, then drag Amble to Applications | Signed and notarized |
 | **Windows · Intel / AMD 64-bit** | **Setup .exe** installer                          | Available · unsigned |
 | **Linux · Intel / AMD 64-bit**   | **AppImage**, or **.deb / .rpm**                  | Available · unsigned |
 
 No Intel Mac package is currently published. iOS and Android clients have separate
-testing and distribution channels; check [mobile availability](https://lyrestudio.net/docs/release-status.html#ios).
+testing and distribution channels; check [mobile availability](https://www.amblecode.com/docs/release-status.html#ios).
 
-[Installation and updates](INSTALL.md) · [Release notes](https://github.com/LyreStudio/lyre-releases/releases) ·
-[Compare plans](https://lyrestudio.net/#pricing)
+[Installation and updates](INSTALL.md) · [Release notes](https://github.com/LyreStudio/amble-releases/releases) ·
+[Compare plans](https://www.amblecode.com/#pricing)
 
-### Use Lyre from your terminal
+### Use Amble from your terminal
 
 The npm package installs the **CLI and host daemon** for managing projects,
 workspaces and coding agents. Download the desktop app above for the graphical
@@ -101,7 +101,7 @@ lyre --version
 lyre --help
 ```
 
-If you already use Lyre Studio desktop, try `lyre status` to check the selected
+If you already use Amble desktop, try `lyre status` to check the selected
 host. To run a standalone host from npm, start its background daemon:
 
 ```sh
@@ -124,20 +124,20 @@ use another. To follow a task, use `lyre logs AGENT_ID --follow`, replacing
 `AGENT_ID` with its ID from `lyre ls`. Use `lyre pair` to approve a trusted
 client and obtain connection instructions; review the requested owner access.
 
-The npm CLI is **0.11.0-beta.3**, accompanying desktop **0.1.6**. The `lyre` and
+The npm CLI is **0.11.0-beta.3**, accompanying desktop **0.1.11**. The `lyre` and
 `lyre-foundation` commands are aliases for the same CLI. npm installs
 the required runtime packages automatically.
 
 [npm package](https://www.npmjs.com/package/@lyrestudio/cli) ·
 [Full CLI walkthrough, updates and troubleshooting](INSTALL.md#command-line-interface)
 
-[Website CLI quickstart](https://www.lyrestudio.net/docs/cli-quickstart.html) ·
-[Command reference](https://www.lyrestudio.net/docs/cli.html) ·
-[Lyre CLI workflows](https://www.lyrestudio.net/docs/cli-workflows.html)
+[Website CLI quickstart](https://www.amblecode.com/docs/cli-quickstart.html) ·
+[Command reference](https://www.amblecode.com/docs/cli.html) ·
+[Amble CLI workflows](https://www.amblecode.com/docs/cli-workflows.html)
 
-### Lyre features you can use from the CLI
+### Amble features you can use from the CLI
 
-The CLI brings more of Lyre's development workflow to your terminal:
+The CLI brings more of Amble's development workflow to your terminal:
 
 | Feature                    | How to use it                                                                                                                                                                                                                              |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -150,7 +150,7 @@ The CLI brings more of Lyre's development workflow to your terminal:
 | **Host plugins**           | Use `lyre plugin ls`, statically check a plugin with `lyre plugin check`, and review available updates with `lyre plugin update --all --check`. Install only code you trust.                                                               |
 
 Task modes guide the request; they do not change permissions. Preview viewing,
-app-sharing invitations and whole-desktop control use the supported Lyre clients.
+app-sharing invitations and whole-desktop control use the supported Amble clients.
 
 [**See complete CLI examples for these features →**](INSTALL.md#lyre-features-from-the-terminal)
 
@@ -211,7 +211,7 @@ doesn't stop the other. Attach a preview screenshot to the next message when
 something looks off.
 
 <p align="center">
-  <img src="assets/desktop-studio.png" alt="Lyre workspace with the Harbor Kitchen app running in a live preview beside the project" width="100%">
+  <img src="assets/desktop-studio.png" alt="Amble workspace with the Harbor Kitchen app running in a live preview beside the project" width="100%">
 </p>
 
 ### Review before you ship
@@ -222,7 +222,7 @@ keep iterating. A running app is something you can try; your checks decide wheth
 it's ready.
 
 <p align="center">
-  <img src="assets/review-changes.png" alt="Lyre Changes view showing the actual diff for a sample website edit" width="100%">
+  <img src="assets/review-changes.png" alt="Amble Changes view showing the actual diff for a sample website edit" width="100%">
 </p>
 
 ### Your models, your way
@@ -237,7 +237,7 @@ it's ready.
 Local inference depends on your hardware and the chosen agent's model support.
 
 <p align="center">
-  <img src="assets/model-choice.png" alt="Lyre Connections screen showing model-source choices and setup actions" width="100%">
+  <img src="assets/model-choice.png" alt="Amble Connections screen showing model-source choices and setup actions" width="100%">
 </p>
 
 ### Continue on any device
@@ -249,15 +249,15 @@ game you're building from your phone. Connect directly on your network or throug
 
 <p align="center">
   <img src="assets/phone-agent.png" alt="Reviewing an agent's completed change on iPhone" width="30%">&nbsp;
-  <img src="assets/phone-preview.png" alt="Trying the Harbor Kitchen sample website in Lyre on iPhone" width="30%">&nbsp;
-  <img src="assets/phone-game.png" alt="Playing the Orbit Run sample browser game in Lyre on iPhone" width="30%">
+  <img src="assets/phone-preview.png" alt="Trying the Harbor Kitchen sample website in Amble on iPhone" width="30%">&nbsp;
+  <img src="assets/phone-game.png" alt="Playing the Orbit Run sample browser game in Amble on iPhone" width="30%">
 </p>
 
 ### Your whole desktop, built in
 
-Open a connected computer's **entire screen** from Lyre and take control, for the
+Open a connected computer's **entire screen** from Amble and take control, for the
 tools that don't live in a browser: a game engine, a design app, a build monitor.
-Remote desktop is native to Lyre, so a normal install needs **no Docker, RDP server,
+Remote desktop is native to Amble, so a normal install needs **no Docker, RDP server,
 gateway, or SDK**. Each session asks for consent, and pairing alone never grants
 desktop access. _Early: cross-device qualification is ongoing, and support depends on
 platform, permissions, and build._
@@ -268,7 +268,7 @@ Invite a tester with a **single-use link or QR code**. **App-only access** lets 
 use the app you shared, while source files, agent sessions, terminals, and computer
 settings stay private. Revoke access at any time. For a public URL, **opt-in public
 service links** require both your grant and an access token. Client support varies by
-platform and plan; see [plans](https://lyrestudio.net/#pricing).
+platform and plan; see [plans](https://www.amblecode.com/#pricing).
 
 ### It keeps working while you're away
 
@@ -281,13 +281,13 @@ work finishes or a preview becomes ready.
 |                    | Supported today                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------ |
 | **Host computers** | macOS (Apple silicon), Windows 64-bit, Linux 64-bit                                        |
-| **Clients**        | Lyre Studio desktop app; iOS and Android apps in testing                                   |
+| **Clients**        | Amble desktop app; iOS and Android apps in testing                                   |
 | **Coding agents**  | Claude Code, Codex, GitHub Copilot, OpenCode, Pi                                           |
 | **Model sources**  | Provider accounts and API keys; Ollama, LM Studio, llama.cpp, and compatible local servers |
 | **Connections**    | Direct on your local network or VPN, or through an end-to-end encrypted relay              |
 | **Previews**       | Web apps and browser games served by your project, on the desktop and on paired clients    |
 | **Remote desktop** | Built-in whole-desktop viewing and control (early)                                         |
-| **Accounts**       | Local projects and local-network use need no Lyre cloud account                            |
+| **Accounts**       | Local projects and local-network use need no Amble cloud account                            |
 
 <details>
 <summary><strong>More in the workspace: publishing, marketplace, plugins, and customization</strong></summary>
@@ -314,20 +314,20 @@ work finishes or a preview becomes ready.
 4. **Connect another device.** Use **Pair Device** with a supported client and
    explicitly grant the access it needs.
 
-[First-project guide](https://lyrestudio.net/docs/quickstart.html) ·
-[Existing projects](https://lyrestudio.net/docs/projects.html) ·
-[App recipes](https://lyrestudio.net/docs/app-recipes.html)
+[First-project guide](https://www.amblecode.com/docs/quickstart.html) ·
+[Existing projects](https://www.amblecode.com/docs/projects.html) ·
+[App recipes](https://www.amblecode.com/docs/app-recipes.html)
 
-Lyre is in early access. Capabilities depend on the installed build, provider,
-platform, and configured services. [Release notes](https://github.com/LyreStudio/lyre-releases/releases)
+Amble is in early access. Capabilities depend on the installed build, provider,
+platform, and configured services. [Release notes](https://github.com/LyreStudio/amble-releases/releases)
 list version-specific changes and known limitations.
 
-## Help shape Lyre
+## Help shape Amble
 
-[Report a bug](https://github.com/LyreStudio/lyre-releases/issues/new?template=bug_report.yml) ·
-[Request a feature](https://github.com/LyreStudio/lyre-releases/issues/new?template=feature_request.yml) ·
+[Report a bug](https://github.com/LyreStudio/amble-releases/issues/new?template=bug_report.yml) ·
+[Request a feature](https://github.com/LyreStudio/amble-releases/issues/new?template=feature_request.yml) ·
 [Join Discord](https://discord.gg/eGjaBGJgp) ·
-[Read the docs](https://lyrestudio.net/docs/index.html)
+[Read the docs](https://www.amblecode.com/docs/index.html)
 
 For security issues, use [private reporting](SECURITY.md).
 
@@ -335,14 +335,14 @@ For security issues, use [private reporting](SECURITY.md).
 
 ### Future open-source plans
 
-I plan to release eligible Lyre-owned code under Apache 2.0 when the
+I plan to release eligible Amble-owned code under Apache 2.0 when the
 repository reaches 20,000 GitHub stars, so that users can modify and work with it freely.
 
-This is Lyre Studio's official repository for **downloads, release notes, and
-feedback**. Application source is maintained privately. **Lyre Studio is proprietary**;
-see the [license notice](LICENSE), [EULA](https://lyrestudio.net/legal/eula.txt), and
-[third-party licenses](https://lyrestudio.net/legal/third-party-licenses.html).
+This is Amble's official repository for **downloads, release notes, and
+feedback**. Application source is maintained privately. **Amble is proprietary**;
+see the [license notice](LICENSE), [EULA](https://www.amblecode.com/legal/eula.txt), and
+[third-party licenses](https://www.amblecode.com/legal/third-party-licenses.html).
 The application foundation derives from [Paseo](https://github.com/getpaseo/paseo),
 with its Apache-2.0 license and notices preserved.
 
-<p align="center"><sub>© 2026 Jonathan Bakhit · Lyre Studio · <a href="https://lyrestudio.net/privacy.html">Privacy</a></sub></p>
+<p align="center"><sub>© 2026 Jonathan Bakhit · Amble · <a href="https://www.amblecode.com/privacy.html">Privacy</a></sub></p>
