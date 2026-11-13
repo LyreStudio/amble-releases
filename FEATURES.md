@@ -1,6 +1,6 @@
-# Lyre features
+# Amble features
 
-[Download Lyre](https://github.com/LyreStudio/lyre-releases/releases/latest) · [Get started](https://lyrestudio.net/docs/quickstart.html) · [Team guide](TEAMWORK.md)
+[Download Amble](https://github.com/LyreStudio/amble-releases/releases/latest) · [Get started](https://www.amblecode.com/docs/quickstart.html) · [Team guide](TEAMWORK.md)
 
 Build with coding agents, try the running app, and continue from a paired device. Your computer runs the projects and agents; connected clients let you follow and control the work it shares with you.
 
@@ -15,7 +15,7 @@ Open the same work from a paired phone, tablet, or computer. Send a follow-up,
 review a response, and interact with your app while the host keeps working.
 
 <p align="center">
-  <a href="assets/features/02-any-device.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/02-any-device.jpg"><source srcset="assets/features/02-any-device.gif" type="image/gif"><img src="assets/features/02-any-device.jpg" alt="Filter a menu in a live Lyre app preview." width="540"></picture></a>
+  <a href="assets/features/02-any-device.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/02-any-device.jpg"><source srcset="assets/features/02-any-device.gif" type="image/gif"><img src="assets/features/02-any-device.jpg" alt="Filter a menu in a live Amble app preview." width="540"></picture></a>
 </p>
 
 ## Your choice of coding agent
@@ -24,10 +24,10 @@ Use Claude Code, Codex, GitHub Copilot, OpenCode, or Pi, with the models and acc
 your chosen provider supports. Choose a task mode for making a change, planning,
 debugging, or asking a question.
 
-Task modes include Agent, Plan, Debug, Ask, Multitask, and Orchestrate. Queue follow-ups, dictate, and attach files or screenshots through the existing composer. Provider support varies.
+Amble chooses how to handle a task: directly, with subagents, or across connected computers. You can still pick Plan, Debug, Ask, or Multitask yourself, or type `/orchestrate` for larger work. Modes guide the request; they do not change permissions. Queue follow-ups, dictate, and attach files or screenshots through the composer. Provider support varies.
 
 <p align="center">
-  <a href="assets/features/03-agent-choice.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/03-agent-choice.jpg"><source srcset="assets/features/03-agent-choice.gif" type="image/gif"><img src="assets/features/03-agent-choice.jpg" alt="Choose a coding agent and model in Lyre." width="407"></picture></a>
+  <a href="assets/features/03-agent-choice.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/03-agent-choice.jpg"><source srcset="assets/features/03-agent-choice.gif" type="image/gif"><img src="assets/features/03-agent-choice.jpg" alt="Choose a coding agent and model in Amble." width="407"></picture></a>
 </p>
 
 ## Subagents for independent tasks
@@ -54,7 +54,7 @@ desktop previews also let you pick an element and include its description in a
 targeted request.
 
 <p align="center">
-  <a href="assets/features/07-visual-feedback.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/07-visual-feedback.jpg"><source srcset="assets/features/07-visual-feedback.gif" type="image/gif"><img src="assets/features/07-visual-feedback.jpg" alt="Attach a preview screenshot to a Lyre message draft." width="540"></picture></a>
+  <a href="assets/features/07-visual-feedback.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/07-visual-feedback.jpg"><source srcset="assets/features/07-visual-feedback.gif" type="image/gif"><img src="assets/features/07-visual-feedback.jpg" alt="Attach a preview screenshot to an Amble message draft." width="540"></picture></a>
 </p>
 
 ## Share an app with testers
@@ -67,10 +67,23 @@ Invitations use a single-use link or QR code. Public service links are a separat
 
 ## Built-in remote desktop
 
-View and control a connected computer's desktop from Lyre. Open the tools you need
+View and control a connected computer's desktop from Amble. Open the tools you need
 through a session with explicit desktop access and the host's platform permissions.
 
-A normal supported install needs no Docker, RDP server, gateway, or SDK for native desktop access. Whole-desktop support is early and depends on platform, permissions, and installed build; pairing alone does not grant desktop access.
+Remote desktop is built into Amble. A normal supported install needs no Docker, RDP server, gateway, or SDK for native desktop access. Whole-desktop support is early and depends on platform, permissions, and installed build; pairing alone does not grant desktop access, and each session asks for consent.
+
+- **Free:** remote desktop works on your local network only. Relayed sessions away from it need Pro or above.
+- **Virtual screens:** on Pro and AI plans you can create a virtual display on a host to view and control. They are not available on Free.
+
+## Bots
+
+Set up background specialist assistants (Bots) with their own instructions, an
+optional schedule, and the model and permission settings you choose. Each Bot has
+a mascot whose live activity shows whether it is working, needs you, finished, or
+failed, based on its real agent. Choose a built-in mascot or add a custom pet, which
+syncs with the Bot between your computers. Bots are the built-in Amble Bots add-on;
+turn it off in Settings > Add-ons and the Bots tab is hidden. Custom pets need a host
+and client that support them; older ones show the automatic mascot.
 
 ## Terminals and CLI profiles
 
@@ -78,7 +91,7 @@ Open a terminal for your workspace or select a configured CLI profile. Run comma
 alongside the conversation and preview, with process controls in the workspace.
 
 <p align="center">
-  <a href="assets/features/10-terminals.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/10-terminals.jpg"><source srcset="assets/features/10-terminals.gif" type="image/gif"><img src="assets/features/10-terminals.jpg" alt="Run commands in a Lyre workspace terminal." width="510"></picture></a>
+  <a href="assets/features/10-terminals.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/10-terminals.jpg"><source srcset="assets/features/10-terminals.gif" type="image/gif"><img src="assets/features/10-terminals.jpg" alt="Run commands in an Amble workspace terminal." width="510"></picture></a>
 </p>
 
 ## Local models and routing
@@ -93,7 +106,7 @@ Cloud sources retain named, host-stored key profiles and provider account setup.
 
 Prepare assignments for connected computers, choose their workspaces and models,
 and review the plan before starting. Follow the resulting agent conversations
-through Lyre's existing orchestration controls.
+through Amble's existing orchestration controls.
 
 Owners retain host management. Developer access applies to selected projects, and trusted developer commands execute with the host account’s permissions. Shared conversations and device-labelled pending requests help teammates follow the same work; shared visibility does not assign file ownership. [Team guide](TEAMWORK.md).
 
@@ -109,12 +122,13 @@ Open Publish from the workspace, choose a supported destination, and review the
 project, computer, source, and missing setup before an explicit release action.
 Web, local, and mobile destinations retain their platform and account requirements.
 
-## More in Lyre
+## More in Amble
 
 - **Simplified and Full:** choose the presentation that suits you while keeping selected work, drafts, and running tasks.
 - **Library:** find recent work across computers, group projects, and connect supported sessions started in a terminal.
-- **Marketplace and plugins:** browse starters and templates, manage trusted executable plugins, and use supported optional extensions. Community catalog listings do not imply executable installation support.
+- **Add-ons and plugins:** manage add-ons and interface plugins in one Plugins inventory, with each item's trust and compatibility checks. Add-ons are always on unless you switch an individual one off.
+- **Marketplace:** browse starters and templates. A catalog listing is not an installation, and community listings do not imply executable installation support.
 
 Capabilities depend on the installed build, connection role, platform, provider, plan, and configured services. The host must stay awake and connected for remote work.
 
-[Installation](INSTALL.md) · [Mobile availability](https://lyrestudio.net/docs/release-status.html#ios) · [Plans](https://lyrestudio.net/#pricing) · [Release notes](https://github.com/LyreStudio/lyre-releases/releases) · [Support](https://lyrestudio.net/docs/index.html)
+[Installation](INSTALL.md) · [Mobile availability](https://www.amblecode.com/docs/release-status.html#ios) · [Plans](https://www.amblecode.com/#pricing) · [Release notes](https://github.com/LyreStudio/amble-releases/releases) · [Support](https://www.amblecode.com/docs/index.html)
