@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://github.com/AmbleCode/amble-releases/stargazers">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Famble-releases&query=%24.stargazers_count&label=stars&style=flat&logo=github&color=007ec6" alt="GitHub stars">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FAmbleCode%2Famble-releases&query=%24.stargazers_count&label=stars&style=flat&logo=github&color=007ec6" alt="GitHub stars">
   </a>
   <a href="https://github.com/AmbleCode/amble-releases/releases/latest">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Famble-releases%2Freleases%2Flatest&query=%24.tag_name&label=release&style=flat&logo=github&color=orange" alt="Latest Amble release">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FAmbleCode%2Famble-releases%2Freleases%2Flatest&query=%24.tag_name&label=release&style=flat&logo=github&color=orange" alt="Latest Amble release">
   </a>
   <a href="https://x.com/BakhitJonathan">
     <img src="https://img.shields.io/badge/%40BakhitJonathan-555?style=flat&logo=x" alt="Jonathan Bakhit on X">
@@ -44,7 +44,7 @@
 **Agents and models**
 
 - **Your coding agent, your model.** Run Claude Code, Codex, GitHub Copilot, OpenCode and Pi side by side, organized by project. Provider accounts, installation and model access vary by provider.
-- **Task modes.** Amble chooses how to handle a task: directly, with subagents or across computers. Pick Plan, Debug, Ask or Multitask yourself, or type /orchestrate. Modes guide the request; they do not change permissions.
+- **Task modes.** Agent, Plan, Debug, Ask, Multitask and Orchestrate in one composer. Modes guide the request; they do not change permissions.
 - **Subagents.** Delegate independent parts of a task to helper agents, follow the children your conversation started, and review their results.
 - **Cloud and local models.** Connect provider accounts or API keys, or add Ollama, LM Studio, llama.cpp or a compatible local server. Browse a shared model catalog, set routes and see usage. No model weights are bundled.
 - **Bots.** Set up background specialist assistants with their own instructions and optional schedules (the built-in Amble Bots add-on, which you can switch off in Settings).
@@ -61,8 +61,7 @@
 **Every device**
 
 - **Continue from a paired phone, tablet or computer.** Connect directly on your network or through an end-to-end encrypted relay. The host computer must stay awake and connected.
-- **Built-in remote desktop (early).** View and control a connected computer's whole screen with no Docker, RDP server, gateway or SDK. Each session needs explicit access and operating-system consent. On Free, remote desktop works on the local network only; relayed sessions need Pro or above.
-- **Virtual screens (Pro and AI plans).** Create a virtual display on a host for remote desktop; not available on Free.
+- **Built-in remote desktop (early).** View and control a connected computer's whole screen with no Docker, RDP server, gateway or SDK. Each session asks for consent.
 - **Share an app, not the code.** Invite testers with a single-use link or QR code. App-only access leaves source files, agent sessions, terminals and settings private, and you can revoke it.
 - **Agent work across computers.** Plan and dispatch agent work to other connected computers and their available models.
 

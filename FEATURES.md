@@ -24,7 +24,7 @@ Use Claude Code, Codex, GitHub Copilot, OpenCode, or Pi, with the models and acc
 your chosen provider supports. Choose a task mode for making a change, planning,
 debugging, or asking a question.
 
-Amble chooses how to handle a task: directly, with subagents, or across connected computers. You can still pick Plan, Debug, Ask, or Multitask yourself, or type `/orchestrate` for larger work. Modes guide the request; they do not change permissions. Queue follow-ups, dictate, and attach files or screenshots through the composer. Provider support varies.
+Task modes include Agent, Plan, Debug, Ask, Multitask, and Orchestrate. Queue follow-ups, dictate, and attach files or screenshots through the existing composer. Provider support varies.
 
 <p align="center">
   <a href="assets/features/03-agent-choice.gif"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/features/03-agent-choice.jpg"><source srcset="assets/features/03-agent-choice.gif" type="image/gif"><img src="assets/features/03-agent-choice.jpg" alt="Choose a coding agent and model in Amble." width="407"></picture></a>
@@ -71,9 +71,6 @@ View and control a connected computer's desktop from Amble. Open the tools you n
 through a session with explicit desktop access and the host's platform permissions.
 
 Remote desktop is built into Amble. A normal supported install needs no Docker, RDP server, gateway, or SDK for native desktop access. Whole-desktop support is early and depends on platform, permissions, and installed build; pairing alone does not grant desktop access, and each session asks for consent.
-
-- **Free:** remote desktop works on your local network only. Relayed sessions away from it need Pro or above.
-- **Virtual screens:** on Pro and AI plans you can create a virtual display on a host to view and control. They are not available on Free.
 
 ## Bots
 
