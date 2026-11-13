@@ -78,12 +78,8 @@ Remote desktop is built into Amble. A normal supported install needs no Docker, 
 ## Bots
 
 Set up background specialist assistants (Bots) with their own instructions, an
-optional schedule, and the model and permission settings you choose. Each Bot has
-a mascot whose live activity shows whether it is working, needs you, finished, or
-failed, based on its real agent. Choose a built-in mascot or add a custom pet, which
-syncs with the Bot between your computers. Bots are the built-in Amble Bots add-on;
-turn it off in Settings > Add-ons and the Bots tab is hidden. Custom pets need a host
-and client that support them; older ones show the automatic mascot.
+optional schedule, and the model and permission settings you choose. Bots appear in
+their own tab and can be turned off in Settings > Add-ons.
 
 ## Terminals and CLI profiles
 
