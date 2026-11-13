@@ -39,24 +39,48 @@
   <img src="assets/lyre-hero.png" alt="Amble on a desktop and iPhone: an agent changes the Harbor Kitchen sample website while the desktop shows the running app" width="100%">
 </p>
 
-## Main features
+## Key Features
 
-- [Choose your coding agent](FEATURES.md#your-choice-of-coding-agent) and model.
-- [Try live app previews](FEATURES.md#live-app-previews) beside your conversation.
-- [Continue from a paired phone, tablet, or computer](FEATURES.md#continue-from-another-device).
-- [Delegate tasks to subagents](FEATURES.md#subagents-for-independent-tasks).
-- [Show your agent what to change](FEATURES.md#visual-feedback-for-your-agent) with a screenshot.
-- [Run project commands](FEATURES.md#terminals-and-cli-profiles) in built-in terminals.
+**Agents and models**
 
-**Also in Amble:**
+- **Your coding agent, your model.** Run Claude Code, Codex, GitHub Copilot, OpenCode and Pi side by side, organized by project. Provider accounts, installation and model access vary by provider.
+- **Task modes.** Agent, Plan, Debug, Ask, Multitask and Orchestrate in one composer. Modes guide the request; they do not change permissions.
+- **Subagents.** Delegate independent parts of a task to helper agents, follow the children your conversation started, and review their results.
+- **Cloud and local models.** Connect provider accounts or API keys, or add Ollama, LM Studio, llama.cpp or a compatible local server. Browse a shared model catalog, set routes and see usage. No model weights are bundled.
+- **Bots.** Set up background specialist assistants with their own instructions and optional schedules (the built-in Amble Bots add-on, which you can switch off in Settings).
 
-- [Git worktrees](FEATURES.md#separate-git-worktrees) and [change review and commits](FEATURES.md#review-and-commit-changes).
-- [App sharing](FEATURES.md#share-an-app-with-testers) and [built-in remote desktop](FEATURES.md#built-in-remote-desktop).
-- [Local models and routing](FEATURES.md#local-models-and-routing) and [agent work across computers](FEATURES.md#agent-work-across-computers).
-- [Schedules, activity, and notifications](FEATURES.md#schedules-activity-and-notifications) and [publishing review](FEATURES.md#review-before-publishing).
+**Build and review**
+
+- **Live app previews.** Try your running app beside the conversation. Agents and previews start and stop independently.
+- **Visual feedback.** Attach a preview screenshot to your next message; supported desktop previews also let you pick an element.
+- **Git worktrees, Changes and commits.** Give independent work its own checkout, read the actual diff, stage and commit from the workspace.
+- **Built-in terminals and CLI profiles.** Run your project's checks next to the chat and preview.
+- **Review before you publish.** A guided Publish flow shows the destination and release effect before anything runs. Setup is not a completed store submission.
+- **Schedules, Activity and notifications.** See what needs your input, is ready to review or is still running, and run recurring agent tasks while the host stays available.
+
+**Every device**
+
+- **Continue from a paired phone, tablet or computer.** Connect directly on your network or through an end-to-end encrypted relay. The host computer must stay awake and connected.
+- **Built-in remote desktop (early).** View and control a connected computer's whole screen with no Docker, RDP server, gateway or SDK. Each session needs explicit access and operating-system consent. On Free, remote desktop works on the local network only; relayed sessions need Pro or above.
+- **Virtual screens (Pro and AI plans).** Create a virtual display on a host for remote desktop; not available on Free.
+- **Share an app, not the code.** Invite testers with a single-use link or QR code. App-only access leaves source files, agent sessions, terminals and settings private, and you can revoke it.
+- **Agent work across computers.** Plan and dispatch agent work to other connected computers and their available models.
+
+**Teams and extras**
+
+- **Clear project access.** Owners manage the host, Developers get selected projects, and testers get only shared apps. Developer commands run with the host account's permissions, so grant them to trusted collaborators.
+- **Add-ons, plugins and marketplace.** Add-ons and interface plugins appear in one Plugins inventory with trust and compatibility checks. Marketplace listing is not installation.
+- **Simplified or Full interface.** Pick a lighter project, chat, preview flow or the dense workspace. Switching keeps your work and drafts.
+- **Local first.** Local projects and local-network use need no Amble cloud account. Amble Cloud is a separate paid add-on that is still being rolled out.
+
+More detail on each: [Choose your coding agent](FEATURES.md#your-choice-of-coding-agent) ·
+[Live previews](FEATURES.md#live-app-previews) · [Other devices](FEATURES.md#continue-from-another-device) ·
+[Subagents](FEATURES.md#subagents-for-independent-tasks) · [Worktrees](FEATURES.md#separate-git-worktrees) ·
+[Review and commit](FEATURES.md#review-and-commit-changes) · [App sharing](FEATURES.md#share-an-app-with-testers) ·
+[Remote desktop](FEATURES.md#built-in-remote-desktop) · [Models and routing](FEATURES.md#local-models-and-routing) ·
+[Schedules](FEATURES.md#schedules-activity-and-notifications) · [Publishing](FEATURES.md#review-before-publishing)
 
 [**Explore all features →**](FEATURES.md)
-
 
 ## Try a complete workflow
 
