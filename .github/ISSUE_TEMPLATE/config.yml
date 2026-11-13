@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Installation and updates
-    url: https://github.com/LyreStudio/lyre-releases/blob/main/INSTALL.md
+    url: https://github.com/AmbleCode/amble-releases/blob/main/INSTALL.md
     about: Choose a download and get help installing or updating Lyre.
   - name: Community questions
     url: https://discord.gg/ZRrY5DtZk

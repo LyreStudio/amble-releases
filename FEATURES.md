@@ -1,6 +1,6 @@
 # Amble features
 
-[Download Amble](https://github.com/LyreStudio/amble-releases/releases/latest) · [Get started](https://www.amblecode.com/docs/quickstart.html) · [Team guide](TEAMWORK.md)
+[Download Amble](https://github.com/AmbleCode/amble-releases/releases/latest) · [Get started](https://www.amblecode.com/docs/quickstart.html) · [Team guide](TEAMWORK.md)
 
 Build with coding agents, try the running app, and continue from a paired device. Your computer runs the projects and agents; connected clients let you follow and control the work it shares with you.
 
@@ -127,4 +127,4 @@ Web, local, and mobile destinations retain their platform and account requiremen
 
 Capabilities depend on the installed build, connection role, platform, provider, plan, and configured services. The host must stay awake and connected for remote work.
 
-[Installation](INSTALL.md) · [Mobile availability](https://www.amblecode.com/docs/release-status.html#ios) · [Plans](https://www.amblecode.com/#pricing) · [Release notes](https://github.com/LyreStudio/amble-releases/releases) · [Support](https://www.amblecode.com/docs/index.html)
+[Installation](INSTALL.md) · [Mobile availability](https://www.amblecode.com/docs/release-status.html#ios) · [Plans](https://www.amblecode.com/#pricing) · [Release notes](https://github.com/AmbleCode/amble-releases/releases) · [Support](https://www.amblecode.com/docs/index.html)

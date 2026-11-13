@@ -9,7 +9,7 @@
 <p align="center">Coding agents, your models, and your running app, in one workspace on your computer.<br>Drive it from your phone, tablet, or another computer.</p>
 
 <p align="center">
-  <a href="https://github.com/LyreStudio/amble-releases/releases/latest"><strong>Download Amble →</strong></a> ·
+  <a href="https://github.com/AmbleCode/amble-releases/releases/latest"><strong>Download Amble →</strong></a> ·
   <a href="https://www.amblecode.com/docs/quickstart.html">Get started</a> ·
   <a href="TEAMWORK.md">Team guide</a> ·
   <a href="https://www.amblecode.com">Website</a> ·
@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LyreStudio/amble-releases/stargazers">
+  <a href="https://github.com/AmbleCode/amble-releases/stargazers">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Famble-releases&query=%24.stargazers_count&label=stars&style=flat&logo=github&color=007ec6" alt="GitHub stars">
   </a>
-  <a href="https://github.com/LyreStudio/amble-releases/releases/latest">
+  <a href="https://github.com/AmbleCode/amble-releases/releases/latest">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FLyreStudio%2Famble-releases%2Freleases%2Flatest&query=%24.tag_name&label=release&style=flat&logo=github&color=orange" alt="Latest Amble release">
   </a>
   <a href="https://x.com/BakhitJonathan">
@@ -95,7 +95,7 @@ preview scope, access limits and separate provider costs.
 
 ## Get Amble
 
-[**Download the latest release →**](https://github.com/LyreStudio/amble-releases/releases/latest)
+[**Download the latest release →**](https://github.com/AmbleCode/amble-releases/releases/latest)
 
 | Your computer                    | Recommended download                              | Availability         |
 | -------------------------------- | ------------------------------------------------- | -------------------- |
@@ -106,7 +106,7 @@ preview scope, access limits and separate provider costs.
 No Intel Mac package is currently published. iOS and Android clients have separate
 testing and distribution channels; check [mobile availability](https://www.amblecode.com/docs/release-status.html#ios).
 
-[Installation and updates](INSTALL.md) · [Release notes](https://github.com/LyreStudio/amble-releases/releases) ·
+[Installation and updates](INSTALL.md) · [Release notes](https://github.com/AmbleCode/amble-releases/releases) ·
 [Compare plans](https://www.amblecode.com/#pricing)
 
 ### Use Amble from your terminal
@@ -343,13 +343,13 @@ work finishes or a preview becomes ready.
 [App recipes](https://www.amblecode.com/docs/app-recipes.html)
 
 Amble is in early access. Capabilities depend on the installed build, provider,
-platform, and configured services. [Release notes](https://github.com/LyreStudio/amble-releases/releases)
+platform, and configured services. [Release notes](https://github.com/AmbleCode/amble-releases/releases)
 list version-specific changes and known limitations.
 
 ## Help shape Amble
 
-[Report a bug](https://github.com/LyreStudio/amble-releases/issues/new?template=bug_report.yml) ·
-[Request a feature](https://github.com/LyreStudio/amble-releases/issues/new?template=feature_request.yml) ·
+[Report a bug](https://github.com/AmbleCode/amble-releases/issues/new?template=bug_report.yml) ·
+[Request a feature](https://github.com/AmbleCode/amble-releases/issues/new?template=feature_request.yml) ·
 [Join Discord](https://discord.gg/eGjaBGJgp) ·
 [Read the docs](https://www.amblecode.com/docs/index.html)
 

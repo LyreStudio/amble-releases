@@ -1,7 +1,7 @@
 # Install and update Lyre Studio
 
-[**Download the latest release**](https://github.com/LyreStudio/lyre-releases/releases/latest) ·
-[Release notes](https://github.com/LyreStudio/lyre-releases/releases) ·
+[**Download the latest release**](https://github.com/AmbleCode/amble-releases/releases/latest) ·
+[Release notes](https://github.com/AmbleCode/amble-releases/releases) ·
 [Back to Lyre Studio](README.md)
 
 ## Windows
@@ -347,7 +347,7 @@ can be enabled there; applying the update restarts the app. Let running tasks fi
 and save your work first.
 
 **Portable ZIP, .deb, .rpm, .tar.gz, and builds without in-app updates:** download
-the newer package from [Releases](https://github.com/LyreStudio/lyre-releases/releases)
+the newer package from [Releases](https://github.com/AmbleCode/amble-releases/releases)
 and replace or upgrade the app using the same installation method. Read the release
 notes before switching versions or installation types.
 
@@ -373,4 +373,4 @@ PowerShell's `Get-FileHash -Algorithm SHA256` on Windows, `shasum -a 256` on
 macOS, or `sha256sum` on Linux. Matching a checksum confirms the download's
 bytes match the published value; it does not replace platform signing checks.
 
-[Report an installation problem](https://github.com/LyreStudio/lyre-releases/issues/new?template=bug_report.yml).
+[Report an installation problem](https://github.com/AmbleCode/amble-releases/issues/new?template=bug_report.yml).

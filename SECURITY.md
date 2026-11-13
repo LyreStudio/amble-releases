@@ -1,7 +1,7 @@
 # Report a security vulnerability
 
 Please report potential security vulnerabilities privately through
-[GitHub's private vulnerability reporting](https://github.com/LyreStudio/lyre-releases/security/advisories/new)
+[GitHub's private vulnerability reporting](https://github.com/AmbleCode/amble-releases/security/advisories/new)
 or by email to **support@lyrestudio.net**.
 
 Do not post exploitable vulnerabilities, credentials, or private project data in
@@ -18,7 +18,7 @@ You do not need to demonstrate an exploit against someone else's device or data.
 Share sensitive reproduction details only through the private reporting channels above.
 
 For ordinary crashes, setup trouble, and other non-security bugs, use the
-[bug report form](https://github.com/LyreStudio/lyre-releases/issues/new?template=bug_report.yml).
+[bug report form](https://github.com/AmbleCode/amble-releases/issues/new?template=bug_report.yml).
 
-[Latest releases](https://github.com/LyreStudio/lyre-releases/releases/latest) ·
+[Latest releases](https://github.com/AmbleCode/amble-releases/releases/latest) ·
 [Privacy policy](https://lyrestudio.net/privacy.html)

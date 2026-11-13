@@ -7,7 +7,7 @@ work into clear tasks, and review the result together from connected devices.
 This guide covers development collaboration and sharing an app with testers.
 Controls depend on the installed host and client versions. Start with the
 [installation guide](INSTALL.md) and check the
-[release notes](https://github.com/LyreStudio/lyre-releases/releases) when a
+[release notes](https://github.com/AmbleCode/amble-releases/releases) when a
 control described here is unavailable.
 
 ## Choose the right access
@@ -170,4 +170,4 @@ access are separate. See [plans](https://lyrestudio.net/#pricing) and
 | A phone cannot connect or open the preview | Check the host's power, network, running app, current grant and remote preview entitlement. |
 
 [Back to Lyre Studio](README.md) ·
-[Report a problem](https://github.com/LyreStudio/lyre-releases/issues/new?template=bug_report.yml)
+[Report a problem](https://github.com/AmbleCode/amble-releases/issues/new?template=bug_report.yml)
