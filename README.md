@@ -44,7 +44,7 @@
 **Agents and models**
 
 - **Your coding agent, your model.** Run Claude Code, Codex, GitHub Copilot, OpenCode and Pi side by side, organized by project. Provider accounts, installation and model access vary by provider.
-- **Task modes.** Agent, Plan, Debug, Ask, Multitask and Orchestrate in one composer. Modes guide the request; they do not change permissions.
+- **Task modes.** Amble chooses how to handle a task: directly, with subagents or across computers. Pick Plan, Debug, Ask or Multitask yourself, or type /orchestrate. Modes guide the request; they do not change permissions.
 - **Subagents.** Delegate independent parts of a task to helper agents, follow the children your conversation started, and review their results.
 - **Cloud and local models.** Connect provider accounts or API keys, or add Ollama, LM Studio, llama.cpp or a compatible local server. Browse a shared model catalog, set routes and see usage. No model weights are bundled.
 - **Bots.** Set up background specialist assistants with their own instructions and optional schedules (the built-in Amble Bots add-on, which you can switch off in Settings).
